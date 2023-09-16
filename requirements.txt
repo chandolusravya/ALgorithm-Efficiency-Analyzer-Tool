@@ -1,0 +1,4 @@
+PyQt5==5.15.4
+matplotlib==3.4.3
+qt-material==2.8.1
+numpy==1.21.2
