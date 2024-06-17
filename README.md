@@ -14,9 +14,7 @@ chmod +x setup app # This will give execute permission to setup and app files
 ./app # This will run the application
 ```
 
-## Rules
 
-* All changes must be made using a Pull Request (PR), Follow instructions below to do one
 
 ## Steps to create a PR and merge your changes
 
