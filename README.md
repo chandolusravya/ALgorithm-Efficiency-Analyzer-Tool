@@ -56,7 +56,7 @@ git push origin <branch-name>
 
 > Example
 > ```bash
-> git push origin keshav
+> git push origin sravya
 > ```
 
 7. This will create a branch in the github.com (remote)
